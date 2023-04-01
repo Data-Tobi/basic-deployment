@@ -1,0 +1,7 @@
+# FAST-API, GUVICORN and GUNICORN are already included in the docker base image
+
+pandas==1.5.3
+numpy==1.24.2
+scikit-learn==1.2.0
+matplotlib==3.7.1
+pydantic==1.10.7
